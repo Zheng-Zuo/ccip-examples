@@ -15,3 +15,4 @@
 @erc721a/contracts/=lib/ERC721A/contracts/
 @erc721a-upgradeable/contracts/=lib/ERC721A-Upgradeable/contracts/
 @foundry-huff/=lib/foundry-huff/src/
+@chainlink/contracts-ccip/contracts/=lib/chainlink-ccip/chains/evm/contracts/
